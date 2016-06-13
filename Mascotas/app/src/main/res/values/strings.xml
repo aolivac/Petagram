@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mascotas</string>
+    <string name="menu_name">Favoritos</string>
+    <string name="nombre">Nombre de la mascota</string>
+    <string name="raza">Raza: setter</string>
+    <string name="pNombre">nombre</string>
+    <string name="pRaza">raza</string>
+        <string name="pNumLikes">numLikes</string>
+    <string name="lNumLikes">4</string>
+
+</resources>
